@@ -2,7 +2,7 @@ i like coding stuff for fun and making it open. i am also interested in graphica
 
 contact:
 - email: adriihewoo@gmail.com
-- discord: adriixhi
+- discord: adrihii
 
 programming experience and skills:
 - python
